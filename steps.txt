@@ -1,0 +1,3 @@
+First we will add the required packages.
+Then we create a nameProvider class that 'extends' or 'with' changeNotifier.
+Next we will return the change notifier instead of material app like we did in GetX statemanagment.
